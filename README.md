@@ -43,7 +43,7 @@ Follow these simple steps to set up the project locally:
 
 ```bash
 git clone https://github.com/your-username/weather-app.git
-cd weather-app
+cd weather-Now
 ```
 
 ---
