@@ -84,18 +84,18 @@ Or just double-click `index.html` to open it in your browser.
 
 | Home |
 |-------------------------------|
-| ![Weather App Screenshot](https://github.com/Chandankumar2004/Weather_App/blob/6f77dbcd0f87d60d2359dd14a148cf2ee0074a0d/Screenshot%202025-06-25%20153034.png) |
+| ![Weather App Screenshot](https://github.com/Chandankumar2004/-Weather-Now/blob/866a526be50152a86091c2983c08b9c8d42b6f8e/Weather%20Now/Screenshot%202025-06-25%20153034.png) |
 
 ---
 | Search Weather for Your City |
 |-------------------------------|
-| ![Weather App Screenshot](https://github.com/Chandankumar2004/Weather_App/blob/6f77dbcd0f87d60d2359dd14a148cf2ee0074a0d/Screenshot%202025-06-25%20153054.png) |
+| ![Weather App Screenshot](https://github.com/Chandankumar2004/-Weather-Now/blob/866a526be50152a86091c2983c08b9c8d42b6f8e/Weather%20Now/Screenshot%202025-06-25%20153054.png) |
 
 ---
 ---
 | Search Weather for Your Invalid City |
 |-------------------------------|
-| ![Weather App Screenshot](https://github.com/Chandankumar2004/Weather_App/blob/6f77dbcd0f87d60d2359dd14a148cf2ee0074a0d/Screenshot%202025-06-25%20153132.png) |
+| ![Weather App Screenshot](https://github.com/Chandankumar2004/-Weather-Now/blob/866a526be50152a86091c2983c08b9c8d42b6f8e/Weather%20Now/Screenshot%202025-06-25%20153132.png) |
 
 ---
 
